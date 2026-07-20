@@ -1,4 +1,4 @@
-
+//To print a pattern O(n^2)
 class Main{
     public void patt(int n){
 for(int i=0;i<n;i++){
