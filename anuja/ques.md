@@ -44,3 +44,11 @@ Input: prices = [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transactions are done and the max profit = 0.
 
+# Sort an array of 0s, 1s and 2s
+
+Problem Statement: Given an array nums consisting of only 0, 1, or 2. Sort the array in non-decreasing order. The sorting must be done in-place, without making a copy of the original array.
+
+EX.
+Input: nums = [1, 0, 2, 1, 0]
+Output: [0, 0, 1, 1, 2]
+Explanation: The nums array in sorted order has 2 zeroes, 2 ones and 1 two
