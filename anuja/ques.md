@@ -76,3 +76,15 @@ Examples
 Input: arr[]=[1,1,2,2,2,3,3]
 Output: [1,2,3,_,_,_,_]
 Explanation: Total number of unique elements are 3, i.e[1,2,3] and Therefore return 3 after assigning [1,2,3] in the beginning of the array.
+
+
+# Q7 Find the Majority Element that occurs more than N/2 times
+
+Problem Statement: Given an integer array nums of size n, return the majority element of the array.
+
+The majority element of an array is an element that appears more than n/2 times in the array. The array is guaranteed to have a majority element.
+
+Input:
+ nums = [7, 0, 0, 1, 7, 7, 2, 7, 7]  
+Output:
+ 7  
